@@ -3,11 +3,12 @@ Alive cells interact with their neighbours to evolve to the next state, based on
 
 ## Preview:
 <p align="center">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/GameOfLife-2019/blob/master/screenshots/04.png">
+  <img width="100%" height="100%" src="https://github.com/panaitescu-paul/GameOfLife-2019/blob/master/screenshots/04.png">
 </p>
 
 ## Technologies:
 - Python
+- Tkinter - GUI toolkit
 
 ## Features:
 1. Separate configuration from implementation 
@@ -62,13 +63,11 @@ milliseconds)
 
 ## Screenshots:
 <p align="center">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/GameOfLife-2019/blob/master/screenshots/00.png">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/GameOfLife-2019/blob/master/screenshots/01.png">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/GameOfLife-2019/blob/master/screenshots/02.png">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/GameOfLife-2019/blob/master/screenshots/03.png">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/GameOfLife-2019/blob/master/screenshots/04.png">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/GameOfLife-2019/blob/master/screenshots/05.png">
+  <img width="100%" height="100%" src="https://github.com/panaitescu-paul/GameOfLife-2019/blob/master/screenshots/00.png">
+  <img width="100%" height="100%" src="https://github.com/panaitescu-paul/GameOfLife-2019/blob/master/screenshots/01.png">
+  <img width="100%" height="100%" src="https://github.com/panaitescu-paul/GameOfLife-2019/blob/master/screenshots/02.png">
+  <img width="100%" height="100%" src="https://github.com/panaitescu-paul/GameOfLife-2019/blob/master/screenshots/03.png">
+  <img width="100%" height="100%" src="https://github.com/panaitescu-paul/GameOfLife-2019/blob/master/screenshots/04.png">
+  <img width="100%" height="100%" src="https://github.com/panaitescu-paul/GameOfLife-2019/blob/master/screenshots/05.png">
 </p>
- 
-
  

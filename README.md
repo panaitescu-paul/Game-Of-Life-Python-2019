@@ -1,5 +1,5 @@
 # Game of Life (Evolution of Life Forms)
-Alive cells interact with their neighbours to evolve to the next state, based on different rules.
+Alive cells interact with their neighbours to evolve into the next state, based on different rules.
 
 ## Preview:
 <p align="center">

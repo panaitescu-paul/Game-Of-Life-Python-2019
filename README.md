@@ -1,4 +1,5 @@
-# Game of Life (Evolution of Life Forms)
+# Game Of Life - Python - 2019
+### Evolution of Life Forms
 Alive cells interact with their neighbours to evolve into the next state, based on different rules.
 
 ## Preview:
